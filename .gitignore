@@ -1,0 +1,7 @@
+/sources
+*.pdf
+*.docx
+*.tex
+temp.md
+
+!template.tex
